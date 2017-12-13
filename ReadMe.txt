@@ -1,0 +1,1 @@
+I am using sigmoid function on the hidden layer and softmax function on the output layer.
